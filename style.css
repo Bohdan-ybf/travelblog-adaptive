@@ -29,11 +29,13 @@ a {
     text-decoration: none;
 }
 
+.arrow__container {}
+
 .arrow__up {
     position: sticky;
     top: 95%;
     z-index: 100;
-    left: 95%;
+    left: 83%;
     margin: 0 5px;
 }
 
@@ -107,7 +109,7 @@ input:active {
 .search__icon {
     width: 20px;
     height: 20px;
-    background-image: url(/travelblog/images/search.png);
+    background-image: url(./images/search.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -123,7 +125,7 @@ input:active {
 
 .main__section-1 {
     height: 100vh;
-    background-image: url(/travelblog/images/main.bg.png);
+    background-image: url(./images/main.bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -133,7 +135,7 @@ input:active {
 }
 
 .main__section__sky__top {
-    background-image: url(/travelblog/images/Shape.bottom.png);
+    background-image: url(./images/Shape.bottom.png);
     position: absolute;
     background-repeat: repeat-x;
     background-size: cover;
@@ -146,7 +148,7 @@ input:active {
 .main__section__sky__bottom {
     width: 100%;
     height: 10%;
-    background-image: url(/travelblog/images/header.hape.top.png);
+    background-image: url(./images/header.hape.top.png);
     position: absolute;
     background-repeat: repeat-x;
     background-size: cover;
@@ -229,7 +231,7 @@ input:active {
 .vetka {
     width: 710px;
     height: 576px;
-    background-image: url(/travelblog/images/vetka.shadow.png);
+    background-image: url(./images/vetka.shadow.png);
     background-position: left;
     background-size: cover;
     position: absolute;
@@ -386,7 +388,7 @@ input:active {
 
     width: 710px;
     height: 576px;
-    background-image: url(/travelblog/images/vetka.shadow.png);
+    background-image: url(./images/vetka.shadow.png);
     background-position: left;
     background-size: cover;
     position: absolute;
@@ -422,7 +424,7 @@ input:active {
 
 .main__section-5 {
     height: 100vh;
-    background-image: url(/travelblog/images/map.bg.png);
+    background-image: url(./images/map.bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -469,7 +471,7 @@ input:active {
 .vetka-right {
     width: 710px;
     height: 576px;
-    background-image: url(/travelblog/images/vetka.shadow.png);
+    background-image: url(./images/vetka.shadow.png);
     background-position: right;
     right: 0;
     background-size: cover;
@@ -684,19 +686,19 @@ input:active {
 }
 
 .instagram {
-    background-image: url(/travelblog/images/Instagram.png);
+    background-image: url(./images/Instagram.png);
 }
 
 .facebook {
-    background-image: url(/travelblog/images/Facebook.png);
+    background-image: url(./images/Facebook.png);
 }
 
 .twitter {
-    background-image: url(/travelblog/images/Twitter.png);
+    background-image: url(./images/Twitter.png);
 }
 
 .whatsapp {
-    background-image: url(/travelblog/images/WhatsApp.png);
+    background-image: url(./images/WhatsApp.png);
 }
 
 .wrapper__content__block {
